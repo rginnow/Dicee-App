@@ -1,3 +1,6 @@
+> [!NOTE]
+> THIS REPO HAS BEEN ARCHIVED
+
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Dicee
